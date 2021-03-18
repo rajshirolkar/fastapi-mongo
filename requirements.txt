@@ -1,0 +1,7 @@
+fastapi~=0.63.0
+uvicorn~=0.13.4
+pydantic~=1.8.1
+motor~=2.3.1
+pydantic[email]
+python-decouple
+pymongo~=3.11.3
